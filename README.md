@@ -23,4 +23,4 @@ those being
 
 ## Questions?
 email:(brianflieck@gmail.com)
-github:(https://github.com/flieckster/CMS) 
+github:(https://github.com/flieckster/) 
